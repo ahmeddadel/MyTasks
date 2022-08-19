@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مـهـامـي</string>
+    <string name="add">إضافة</string>
+    <string name="edit">تعديل</string>
+    <string name="add_a_task">أضف مهمة</string>
+    <string name="edit_a_task">تعديل مهمة</string>
+    <string name="title">العنوان :</string>
+    <string name="body">النص :</string>
+    <string name="enter_task_body">أدخل نص المهمة</string>
+    <string name="enter_task_title">أدخل عنوان المهمة</string>
+    <string name="developed_by">Developed by :-</string>
+    <string name="ahmed_adel">Ahmed Adel</string>
+    <string name="back">الرجوع</string>
+    <string name="show_a_task">عرض مهمة</string>
+</resources>

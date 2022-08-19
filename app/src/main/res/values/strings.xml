@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Tasks</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="add_a_task">Add a Task</string>
+    <string name="edit_a_task">Edit a Task</string>
+    <string name="title">Title :</string>
+    <string name="body">Body :</string>
+    <string name="enter_task_body">Enter task body</string>
+    <string name="enter_task_title">Enter task title</string>
+    <string name="developed_by">Developed by :-</string>
+    <string name="ahmed_adel">Ahmed Adel</string>
+    <string name="back">Back</string>
+    <string name="show_a_task">Show a Task</string>
+</resources>
